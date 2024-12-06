@@ -1,1 +1,1 @@
-# Small-goals
+# Goals
